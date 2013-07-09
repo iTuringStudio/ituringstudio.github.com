@@ -4,11 +4,11 @@
   <title><![CDATA[TuringStudio]]></title>
   <link href="http://iTuringStudio.github.io/atom.xml" rel="self"/>
   <link href="http://iTuringStudio.github.io/"/>
-  <updated>2013-06-28T13:14:32+08:00</updated>
+  <updated>2013-06-28T14:12:18+08:00</updated>
   <id>http://iTuringStudio.github.io/</id>
   <author>
     <name><![CDATA[TuringTeam]]></name>
-    
+    <email><![CDATA[ituringteam@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
